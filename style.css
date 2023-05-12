@@ -1,0 +1,33 @@
+body{
+    background-color: pink;
+    background-size: 100%;
+    color: rgb(255, 255, 255);
+    letter-spacing: 1px;
+}
+#details{
+    background-color: blue;
+    padding: 10px;
+    margin: 80px;
+    border-radius: 10px;
+    align-items: center;
+
+}
+#details h1,#details p{
+    font-size: large;
+    font-weight: bold;
+    padding: 10px;
+    text-align: center ;
+}
+
+#country button{
+    background-color:blue;
+}
+#username button{
+    background-color:rgb(255, 0, 72);
+}
+#language-spoken button{
+    background-color:rgb(0, 255, 34);
+}
+#idnumber button{
+    background-color:rgb(0, 208, 255);
+}
